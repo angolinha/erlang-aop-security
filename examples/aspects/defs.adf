@@ -1,0 +1,8 @@
+%% defs.adf
+[Aspect(
+	Advice(around, advices, around_advice),
+	[
+		Pointcut("program", "send_eaop", "3", public)
+	]
+)
+.
