@@ -8,5 +8,7 @@ Implementation was possible only thanks to Alexei Krasnopolski's [ErlAOP module]
 # Usage
 
 ![Run on source node without name](doc/source.png)
+** Run on source node without name **
 
 ![Run on target named node with set security cookie](doc/target.png)
+** Run on target named node with set security cookie **
